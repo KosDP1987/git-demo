@@ -1,0 +1,7 @@
+# no .log
+*.log
+
+# ignore all files in the build/ directory
+build/
+
+
